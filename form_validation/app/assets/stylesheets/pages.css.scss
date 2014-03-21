@@ -7,6 +7,21 @@
   color: red;
 }
 
+label {
+  font-size: 1.2em;
+}
+
 .flash-success {
   color: green;
+}
+
+.container {
+  margin-top: 100px;
+  background-color: skyblue;
+  border-radius: 20px;
+  padding: 50px;
+  .inner-container {
+    width: 60%;
+    margin: auto;
+  }
 }
