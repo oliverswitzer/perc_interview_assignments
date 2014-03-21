@@ -1,13 +1,15 @@
 <!-- form.html.erb -->
 
-<div class="form-container">
-  <form method="POST" action="/form-post">
-    <label for="name">First and Last Name</label>
-    <input id="name" type="text" name="name">
-    <br>
-    <label for="email">Email</label>
-    <input id="email" type="email" name="email">
-  </form>
-</div>
+
+<%= form_tag '/upload', multipart: true do %>
+  <%= label_tag 'name' %>
+  <%= text_field_tag 'name' %>
+  <br/>
+  <%= label_tag 'email' %>
+  <%= email_field_tag 'email' %>
+  <span class="error" id="companyEmail">Please submit a company email address (e.g. foobar@percolate.com)</span>
+  <br/>
+  <%= submit_tag "Submit", id: "submit" %>
+<% end %>
 
 <%= javascript_include_tag :validations %> 

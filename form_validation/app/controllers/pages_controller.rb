@@ -1,7 +1,6 @@
 class PagesController < ApplicationController
 
   def email_new
-    gibbon = MailChimp.new
   end
 
   def email_create
