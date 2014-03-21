@@ -13,18 +13,27 @@ $(function() {
     validateEmail($(this));
   });
 
-  function validateEmail(emailInput) {
+  $submit.on("click", function(e) { // click event validator on submit to make sure that people can't just re-enable the submit
+    if( !checkCompanyEmail($emailInput.val()) ) {
+      e.preventDefault()
+      validateEmail($emailInput);
+    }
+  });
+
+  function validateEmail(emailInput) {   // called both on keyup and on click of submit
     var emailVal = emailInput.val();
     if (checkCompanyEmail(emailVal)) { 
-      emailInput.next().hide();
+      emailInput.next().fadeOut();
       $submit.removeAttr("disabled");
+      return true
     } else {
-      emailInput.next().show();
+      emailInput.next().fadeIn();
       $submit.attr("disabled", "disabled");
+      return false
     }
   }
 
-  function checkCompanyEmail(email) {
+  function checkCompanyEmail(email) {  // use try/catch block so that errors produced when there are no matches are handled
     re = /@(percolate).com+/
     try 
       {

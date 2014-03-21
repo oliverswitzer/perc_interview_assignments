@@ -1,7 +1,12 @@
 <!-- form.html.erb -->
 
+<% if flash[:success] %>
+  <h3 class="flash-success">You've succesfully been added to our mailing list!</h3>
+<% elsif flash[:already_subscribed] %>
+  <h3 class="error">You're email has already been submitted to the mailing list!</h3>
+<% end %>
 
-<%= form_tag '/upload', multipart: true do %>
+<%= form_tag '/form-post', multipart: true do %>
   <%= label_tag 'name' %>
   <%= text_field_tag 'name' %>
   <br/>
