@@ -33,7 +33,7 @@ $(function() {
     }
   }
 
-  function checkCompanyEmail(email) {  // use try/catch block so that errors produced when there are no matches are handled
+  function checkCompanyEmail(email) {  // use try/catch block so that errors produced when there are no matches are handle
     re = /@(percolate).com+/
     try 
       {
