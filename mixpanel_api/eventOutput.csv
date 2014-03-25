@@ -1,0 +1,130 @@
+event,time,distinct_id,$browser,$city,$initial_referrer,$initial_referring_domain,$os,$referrer,$referring_domain,$region,$time,email,form_type,mp_country_code,mp_lib,url
+form submit,1389804554,143984eeeff45a-07983a4b2-6e1a2776-384000-143984eef002e9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389804608,143984eeeff45a-07983a4b2-6e1a2776-384000-143984eef002e9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+first visit,1389806125,14398994c243de-07d6615b3-6e1a2776-384000-14398994c265dc,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806134,143989e180b4a9-04a587f04-6e1a2776-384000-143989e180c302,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806157,143989e719177-00a0f21e9-6e1a2776-384000-143989e7192146,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806320,14398a0eee611a-063279ba5-6e1a2776-384000-14398a0eee735a,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806644,14398a5e243466-0d6cfeda5-6e1a2776-384000-14398a5e244f6,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806707,14398a6d7eb77-0308ffb76-6e1a2776-384000-14398a6d7ec2b4,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+first visit,1389806825,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+form submit,1389807182,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,,login,US,web,
+form submit,1389807260,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389807398,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389807609,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389807654,14398a8a47aa-094bd1e04-6e1a2776-384000-14398a8a47b421,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+first visit,1389854891,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+form submit,1389855330,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389855406,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389855748,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389855839,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856329,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856358,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856387,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856405,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856741,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856801,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389856850,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+login,1389856896,1439b86195274-007227c92-6e1a2776-384000-1439b861953155,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,,,US,web,
+first visit,1389857015,1439ba6817f168-0255c806d-6e1a2776-384000-1439ba681802ca,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+form submit,1389857023,1439ba6817f168-0255c806d-6e1a2776-384000-1439ba681802ca,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+first visit,1389858418,1439bbbe08664-006306cc2-6e1a2776-384000-1439bbbe087b9,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://devolate.com/
+form submit,1389858440,1439bbbe08664-006306cc2-6e1a2776-384000-1439bbbe087b9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389858464,1439bbbe08664-006306cc2-6e1a2776-384000-1439bbbe087b9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,test@test.com,demo,US,web,http://devolate.com/request-demo
+form submit,1389858978,1439bbbe08664-006306cc2-6e1a2776-384000-1439bbbe087b9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+form submit,1389859128,1439bbbe08664-006306cc2-6e1a2776-384000-1439bbbe087b9,Chrome,New York,$direct,$direct,Mac OS X,http://devolate.com/,devolate.com,New York,,laurence@pecolate.com,login,US,web,http://devolate.com/accounts/login/
+first visit,1389859478,143983847c594c-08b9f5161-6e1a2776-384000-143983847c6ce1,Chrome,New York,http://www.qa.prclt.net/,www.qa.prclt.net,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+form submit,1389859515,143983847c594c-08b9f5161-6e1a2776-384000-143983847c6ce1,Chrome,New York,http://www.qa.prclt.net/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,mahima+qa+sorryGreg@percolate.com,demo,US,web,http://www.qa.prclt.net/request-demo
+login,1389859615,143983847c594c-08b9f5161-6e1a2776-384000-143983847c6ce1,Chrome,New York,http://www.qa.prclt.net/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/request-demo/success/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1389859794,1439bd0e2f81c8-048c93ca5-6e1a2776-384000-1439bd0e2f92fe,Chrome,New York,http://www.qa.prclt.net/approval/posts/35925,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/approval/posts/35925,www.qa.prclt.net,New York,,,,US,web,http://www.qa.prclt.net/
+form submit,1389859830,1439bd0e2f81c8-048c93ca5-6e1a2776-384000-1439bd0e2f92fe,Chrome,New York,http://www.qa.prclt.net/approval/posts/35925,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,mahimaqa@test.com,login,US,web,http://www.qa.prclt.net/accounts/login/
+login,1389870755,1439bd0e2f81c8-048c93ca5-6e1a2776-384000-1439bd0e2f92fe,Chrome,New York,http://www.qa.prclt.net/approval/posts/35925,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1389942728,143a0c257ea7b-054f7a08c-764e2673-1fa400-143a0c257ebbb,Chrome,San Jose,$direct,$direct,Linux,,,California,,,,US,web,http://www.qa.prclt.net/
+login,1389942737,143a0c257ea7b-054f7a08c-764e2673-1fa400-143a0c257ebbb,Chrome,San Jose,$direct,$direct,Linux,http://www.qa.prclt.net/,www.qa.prclt.net,California,,,,US,web,
+first visit,1389965485,143a21df030153-072be9377-6a1a2576-384000-143a21df031950,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1389965507,143a21df030153-072be9377-6a1a2576-384000-143a21df031950,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1389965591,143a21f37c616b-070a053c8-6a1a2576-384000-143a21f37c7b11,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1389965597,143a21f37c616b-070a053c8-6a1a2576-384000-143a21f37c7b11,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+login,1390291114,143b586301730a-0873a389f-306c6450-fa000-143b5863018cf0,Safari,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390378172,143bab6b879104-040f17013-6e1a2776-384000-143bab6b87a44a,Chrome,New York,http://www.qa.prclt.net/approval/posts/36627,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/approval/posts/36627,www.qa.prclt.net,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390378313,143bab6b879104-040f17013-6e1a2776-384000-143bab6b87a44a,Chrome,New York,http://www.qa.prclt.net/approval/posts/36627,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390378574,143babcd710105-0c5521d0a-6a1a2576-13c680-143babcd71196,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390378584,143babcd710105-0c5521d0a-6a1a2576-13c680-143babcd71196,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390388751,143bb581da669c-064d054cd-306c6450-13c680-143bb581da79ca,Safari,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1390395694,143bbc21173173-09efa2c3d-6a1a2576-384000-143bbc211743b3,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390395705,143bbc21173173-09efa2c3d-6a1a2576-384000-143bbc211743b3,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390402985,143bc314fe153-06068e9a4-6f1a2476-384000-143bc314fe255b,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/demo/campaign-ugc/fanbranded-approval
+first visit,1390469574,143c02959120-051f40728-32465465-c0000-143c0295913411,Chrome,New York,$direct,$direct,Windows,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390469581,143c02959120-051f40728-32465465-c0000-143c0295913411,Chrome,New York,$direct,$direct,Windows,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390475359,143c081a7f2312-085b09636-6a1a2576-384000-143c081a7f3537,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/?__impersonate=93&__license=5
+login,1390475373,143c081a7f2312-085b09636-6a1a2576-384000-143c081a7f3537,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/?__impersonate=93&__license=5,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390476442,143c0922e7db06-0fad0fdaaa23d68-40622a42-384000-143c0922e7e68a,Firefox,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390476489,143c0922e7db06-0fad0fdaaa23d68-40622a42-384000-143c0922e7e68a,Firefox,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390548778,143c4e1f9c517a-04a969b61-346d6551-384000-143c4e1f9c654f,Safari,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/brews/%3F__impersonate%3D93%26__license%3D5
+login,1390548872,143c4e1f9c517a-04a969b61-346d6551-384000-143c4e1f9c654f,Safari,New York,$direct,$direct,Mac OS X,,,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login?next=/brews/%3F__impersonate%3D93%26__license%3D5
+first visit,1390567380,143c6a290fbb0-082702bdc618a9-4b5e6e5c-75300-143c6a290fcb8,Internet Explorer,New York,http://www.qa.prclt.net/,www.qa.prclt.net,Windows,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390567403,143c6a290fbb0-082702bdc618a9-4b5e6e5c-75300-143c6a290fcb8,Internet Explorer,New York,http://www.qa.prclt.net/,www.qa.prclt.net,Windows,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390823424,143d540c21646-0357e661e-6f1a2476-384000-143d540c2178a0,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390824549,143d540c21646-0357e661e-6f1a2476-384000-143d540c2178a0,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390828385,143d58c66e2171-05a28d319-6e1a2476-384000-143d58c66e3c43,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390828404,143d58c66e2171-05a28d319-6e1a2476-384000-143d58c66e3c43,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1390831719,143d5bf46b416f-0185d9eb7-6e1a2476-384000-143d5bf46b57bf,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/demo/community-manager/planner-day-view
+login,1390831807,143d5bf46b416f-0185d9eb7-6e1a2476-384000-143d5bf46b57bf,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,
+first visit,1390907252,143da3fd190449-0522a59ffe8af2-40622b42-384000-143da3fd191d84,Firefox,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390907269,143da3fd190449-0522a59ffe8af2-40622b42-384000-143da3fd191d84,Firefox,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1390911843,143da85e07a545-041b168ce-6f1a2476-13c680-143da85e07bc3f,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1390935282,143dbeb82c94e6-0731e6c48-1b15435d-13c680-143dbeb82cad9e,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1390935296,143dbeb82c94e6-0731e6c48-1b15435d-13c680-143dbeb82cad9e,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391003183,143dff79bd61af-019560c2e-6a1a2576-1aeaa0-143dff79bd74b2,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391003217,143dff79bd61af-019560c2e-6a1a2576-1aeaa0-143dff79bd74b2,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391069277,143e3e84313173-0e006925e-691a2776-384000-143e3e84314324,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391069289,143e3e84313173-0e006925e-691a2776-384000-143e3e84314324,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391075885,143e44cef80179-010fdb26e-1b15435d-13c680-143e44cef81979,Chrome,Ann Arbor,http://www.qa.prclt.net/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,Michigan,,,,US,web,http://www.qa.prclt.net/accounts/login/
+login,1391075890,143e44cef80179-010fdb26e-1b15435d-13c680-143e44cef81979,Chrome,Ann Arbor,http://www.qa.prclt.net/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,Michigan,,,,US,web,
+first visit,1391090425,143e52a934e0-0d88838d8-1b15435d-384000-143e52a934f55a,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391090437,143e52a934e0-0d88838d8-1b15435d-384000-143e52a934f55a,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391168172,143e50634bc1b9-0bf8e284d-6f1a2476-384000-143e50634bd545,Chrome,New York,http://www.qa.prclt.net/settings/profile,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/settings/profile,www.qa.prclt.net,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391168327,143e50634bc1b9-0bf8e284d-6f1a2476-384000-143e50634bd545,Chrome,New York,http://www.qa.prclt.net/settings/profile,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391602974,14403b7ac45193-05013ec2b-1f15425d-1aeaa0-14403b7ac47204,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391602983,14403b7ac45193-05013ec2b-1f15425d-1aeaa0-14403b7ac47204,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391608582,144040d42297b-030121037-1b10435d-384000-144040d422a666,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/our-platform/
+form submit,1391608594,144040d42297b-030121037-1b10435d-384000-144040d422a666,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,demo,US,web,http://www.qa.prclt.net/our-platform/
+first visit,1391676777,144081dddf46c-08a22211d-1f15425d-1aeaa0-144081dddf511e,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391676824,144081dddf46c-08a22211d-1f15425d-1aeaa0-144081dddf511e,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1391687157,14408bc2cfde7c-0f4f9f1b38faf68-40622b42-384000-14408bc2cfe10f2,Firefox,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391687169,14408bc2cfde7c-0f4f9f1b38faf68-40622b42-384000-14408bc2cfe10f2,Firefox,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,as@aspo.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1391697914,144096046d7176-053f73a0b-1b10435d-384000-144096046d93fe,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391697927,144096046d7176-053f73a0b-1b10435d-384000-144096046d93fe,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1391764088,1440d521b980-0834e20d8-1b10435d-384000-1440d521b996ab,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391764098,1440d521b980-0834e20d8-1b10435d-384000-1440d521b996ab,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1391767524,1440d868797101-0050369f4-1b10435d-384000-1440d8687982a8,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1391767553,1440d868797101-0050369f4-1b10435d-384000-1440d8687982a8,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1392040775,1441dd003bc219-0d0bb8cd7-1b10435d-384000-1441dd003bd6bf,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/demo/analytics/dashboard/select-second-time-range
+login,1392040785,1441dd003bc219-0d0bb8cd7-1b10435d-384000-1441dd003bd6bf,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,
+first visit,1392041895,1441de119eab13-07bc4b20b-107a383b-13c680-1441de119eb10d0,Safari,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392041903,1441de119eab13-07bc4b20b-107a383b-13c680-1441de119eb10d0,Safari,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1392042164,1441de532542d-0d2f85c5e-1e10425d-13c680-1441de53255110,Chrome,New York,http://www.qa.prclt.net/approval/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/approval/,www.qa.prclt.net,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/approval/posts/37372
+first visit,1392045835,1441e1d30ba72-0fedeee96fef538-6b007064-358e00-1441e1d30bb106,Internet Explorer,New York,$direct,$direct,Windows,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1392120051,1442289a94ed2-0bb90a8ae-1b10435d-384000-1442289a94f761,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392120078,1442289a94ed2-0bb90a8ae-1b10435d-384000-1442289a94f761,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1392190977,14426c3e9d9163-06b61b34a11af34-6b007064-358e00-14426c3e9da131,Internet Explorer,New York,$direct,$direct,Windows,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/demo/reports/complete
+first visit,1392271925,1442b9717c62cc-02f968e33-1f15425d-13c680-1442b9717c7763,Chrome,Woodmere,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1392280089,1442c13a76e105-01a48edb7-1b10435d-fa000-1442c13a76f981,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/media
+login,1392295150,1442c13a76e105-01a48edb7-1b10435d-fa000-1442c13a76f981,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,
+first visit,1392310336,1442de12f9015d-03957994e-1b10435d-384000-1442de12f91695,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1392374314,14431b1696328f-0d4278345-1b10435d-1aeaa0-14431b16964887,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+first visit,1392381389,144321d5c8a9f-0bc74c23b-1b10435d-384000-144321d5c8b7a6,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392381414,144321d5c8a9f-0bc74c23b-1b10435d-384000-144321d5c8b7a6,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1392381860,14432248fd6173-0a4e989eb-1e10425d-384000-14432248fd77a2,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392381886,14432248fd6173-0a4e989eb-1e10425d-384000-14432248fd77a2,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+login,1392383324,1441de532542d-0d2f85c5e-1e10425d-13c680-1441de53255110,Chrome,New York,http://www.qa.prclt.net/approval/,www.qa.prclt.net,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1392641115,144419877610-072361c69-1b10435d-fa000-1444198776311b,Chrome,New York,$direct,$direct,Mac OS X,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392641128,144419877610-072361c69-1b10435d-fa000-1444198776311b,Chrome,New York,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1392641880,14441a4237e449-0f25241a5100f6-40632a42-13c680-14441a4237f622,Firefox,New York,http://start.io/percolatesong,start.io,Mac OS X,http://start.io/percolatesong,start.io,New York,,,,US,web,http://www.qa.prclt.net/
+login,1392641889,14441a4237e449-0f25241a5100f6-40632a42-13c680-14441a4237f622,Firefox,New York,http://start.io/percolatesong,start.io,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
+first visit,1393155887,1446047447a614-0976048cc-1f10425d-384000-1446047447bb47,Chrome,Union City,$direct,$direct,Mac OS X,,,New Jersey,,,,US,web,http://www.qa.prclt.net/
+login,1393155929,1446047447a614-0976048cc-1f10425d-384000-1446047447bb47,Chrome,Union City,$direct,$direct,Mac OS X,http://www.qa.prclt.net/,www.qa.prclt.net,New Jersey,,percolatetest@gmail.com,,US,web,http://www.qa.prclt.net/accounts/login/
+first visit,1393235622,1446507f887145-0b5e8a1fa3cd95-6e14510a-324600-1446507f88824b,Internet Explorer,New York,$direct,$direct,Windows,,,New York,,,,US,web,http://www.qa.prclt.net/accounts/login?next=/media
+login,1393235630,1446507f887145-0b5e8a1fa3cd95-6e14510a-324600-1446507f88824b,Internet Explorer,New York,$direct,$direct,Windows,,,New York,,,,US,web,
+first visit,1393247007,14465b5a5758d-0c2ac957f-24414032-232800-14465b5a5762d0,Chrome,New York,$direct,$direct,Linux,,,New York,,,,US,web,http://www.qa.prclt.net/
+login,1393247017,14465b5a5758d-0c2ac957f-24414032-232800-14465b5a5762d0,Chrome,New York,$direct,$direct,Linux,http://www.qa.prclt.net/,www.qa.prclt.net,New York,,,,US,web,
