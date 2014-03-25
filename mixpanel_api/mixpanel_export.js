@@ -8,6 +8,7 @@ md5 = require('MD5');
 jsoncsv = require('jsoncsv');
 fs = require('fs');
 stringify = require('csv-stringify');
+credentials = require('./keys'); // API Keys loaded safely from external JSON in gitignore
 
 // cmd line input to get the event to filter the request by
 eventFilter = process.argv[2];
@@ -15,7 +16,7 @@ eventFilter = process.argv[2];
 // query params needed to make Mixpanel signature
 today = new Date;
 expireUTC = today.getTime() + 1E8;  // 1E8 is approximately a day in milliseconds
-params = ["from_date=2014-01-01", "to_date=2014-03-10", "api_key=6968655dca8ecbf52604b137c6354ed6", "expire=" + expireUTC];
+params = ["from_date=2014-01-01", "to_date=2014-03-10", "api_key=" + credentials.api_key, "expire=" + expireUTC];
 
 // if the user has supplied an event to filter by, push it to params array 
 if (eventFilter !== undefined) {
@@ -24,7 +25,7 @@ if (eventFilter !== undefined) {
 
 // create the signature
 paramsConcat = params.sort().join(""),
-signature = md5(paramsConcat + "1bd71a4868d41f1dd76b702bff3c3e02");
+signature = md5(paramsConcat + credentials.api_secret);
 
 //concat query params 
 var base_url = "http://data.mixpanel.com/api/2.0/export/?",
